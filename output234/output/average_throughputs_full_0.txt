@@ -1,0 +1,4 @@
+rrff	2.35E+06
+fdmtff	1.65E+06
+pfff	2.75E+06
+fdbetff	2.34E+06

@@ -1,0 +1,244 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+UDP
+FlowID: 1 (UDP 1.0.0.2 / 49153 --> 7.0.0.2 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 418672
+  Tx Packets: 1000
+  Rx Packets: 274
+  Time LastRxPacket: 1.534s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.726
+  Throughput: 2.18343e+06bps
+  Mean{Delay}: 0.0349161
+  Mean{Jitter}: 0.000211679
+UDP
+FlowID: 2 (UDP 1.0.0.2 / 49154 --> 7.0.0.3 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 406448
+  Tx Packets: 1000
+  Rx Packets: 266
+  Time LastRxPacket: 1.533s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.734
+  Throughput: 2.12106e+06bps
+  Mean{Delay}: 0.0348421
+  Mean{Jitter}: 0.00037218
+UDP
+FlowID: 3 (UDP 1.0.0.2 / 49155 --> 7.0.0.4 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 409504
+  Tx Packets: 1000
+  Rx Packets: 268
+  Time LastRxPacket: 1.531s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.732
+  Throughput: 2.1398e+06bps
+  Mean{Delay}: 0.0347724
+  Mean{Jitter}: 0.000197761
+UDP
+FlowID: 4 (UDP 1.0.0.2 / 49156 --> 7.0.0.5 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 395752
+  Tx Packets: 1000
+  Rx Packets: 259
+  Time LastRxPacket: 1.534s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.741
+  Throughput: 2.0639e+06bps
+  Mean{Delay}: 0.0346216
+  Mean{Jitter}: 0.000548263
+UDP
+FlowID: 5 (UDP 1.0.0.2 / 49157 --> 7.0.0.6 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 394224
+  Tx Packets: 1000
+  Rx Packets: 258
+  Time LastRxPacket: 1.534s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.742
+  Throughput: 2.05593e+06bps
+  Mean{Delay}: 0.0345891
+  Mean{Jitter}: 0.000511628
+UDP
+FlowID: 6 (UDP 1.0.0.2 / 49158 --> 7.0.0.7 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 450760
+  Tx Packets: 1000
+  Rx Packets: 295
+  Time LastRxPacket: 1.529s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.705
+  Throughput: 2.35846e+06bps
+  Mean{Delay}: 0.0326847
+  Mean{Jitter}: 0.000247458
+UDP
+FlowID: 7 (UDP 1.0.0.2 / 49159 --> 7.0.0.8 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 443120
+  Tx Packets: 1000
+  Rx Packets: 290
+  Time LastRxPacket: 1.53s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.71
+  Throughput: 2.31697e+06bps
+  Mean{Delay}: 0.032469
+  Mean{Jitter}: 0.000503448
+UDP
+FlowID: 8 (UDP 1.0.0.2 / 49160 --> 7.0.0.9 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 444648
+  Tx Packets: 1000
+  Rx Packets: 291
+  Time LastRxPacket: 1.532s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.709
+  Throughput: 2.32192e+06bps
+  Mean{Delay}: 0.032567
+  Mean{Jitter}: 0.000302405
+UDP
+FlowID: 9 (UDP 1.0.0.2 / 49161 --> 7.0.0.10 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 464512
+  Tx Packets: 1000
+  Rx Packets: 304
+  Time LastRxPacket: 1.531s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.696
+  Throughput: 2.42723e+06bps
+  Mean{Delay}: 0.0326382
+  Mean{Jitter}: 0.000371711
+UDP
+FlowID: 10 (UDP 1.0.0.2 / 49162 --> 7.0.0.11 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 450760
+  Tx Packets: 1000
+  Rx Packets: 295
+  Time LastRxPacket: 1.53s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.705
+  Throughput: 2.35692e+06bps
+  Mean{Delay}: 0.032661
+  Mean{Jitter}: 0.000294915
+UDP
+FlowID: 11 (UDP 1.0.0.2 / 49163 --> 7.0.0.12 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 427840
+  Tx Packets: 1000
+  Rx Packets: 280
+  Time LastRxPacket: 1.53s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.72
+  Throughput: 2.23707e+06bps
+  Mean{Delay}: 0.032625
+  Mean{Jitter}: 0.000403571
+UDP
+FlowID: 12 (UDP 1.0.0.2 / 49164 --> 7.0.0.13 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 473680
+  Tx Packets: 1000
+  Rx Packets: 310
+  Time LastRxPacket: 1.531s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.69
+  Throughput: 2.47514e+06bps
+  Mean{Delay}: 0.0325065
+  Mean{Jitter}: 0.000693548
+UDP
+FlowID: 13 (UDP 1.0.0.2 / 49165 --> 7.0.0.14 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 470624
+  Tx Packets: 1000
+  Rx Packets: 308
+  Time LastRxPacket: 1.53s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.692
+  Throughput: 2.46078e+06bps
+  Mean{Delay}: 0.0325974
+  Mean{Jitter}: 0.000503247
+UDP
+FlowID: 14 (UDP 1.0.0.2 / 49166 --> 7.0.0.15 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 459928
+  Tx Packets: 1000
+  Rx Packets: 301
+  Time LastRxPacket: 1.531s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.699
+  Throughput: 2.40328e+06bps
+  Mean{Delay}: 0.0326246
+  Mean{Jitter}: 0.000561462
+UDP
+FlowID: 15 (UDP 1.0.0.2 / 49167 --> 7.0.0.16 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 467568
+  Tx Packets: 1000
+  Rx Packets: 306
+  Time LastRxPacket: 1.53s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.694
+  Throughput: 2.4448e+06bps
+  Mean{Delay}: 0.0324477
+  Mean{Jitter}: 0.000660131
+UDP
+FlowID: 16 (UDP 1.0.0.2 / 49168 --> 7.0.0.17 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 423256
+  Tx Packets: 1000
+  Rx Packets: 277
+  Time LastRxPacket: 1.532s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.723
+  Throughput: 2.21021e+06bps
+  Mean{Delay}: 0.034361
+  Mean{Jitter}: 0.000913357
+UDP
+FlowID: 17 (UDP 1.0.0.2 / 49169 --> 7.0.0.18 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 414088
+  Tx Packets: 1000
+  Rx Packets: 271
+  Time LastRxPacket: 1.533s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.729
+  Throughput: 2.16093e+06bps
+  Mean{Delay}: 0.0342288
+  Mean{Jitter}: 0.000948339
+UDP
+FlowID: 18 (UDP 1.0.0.2 / 49170 --> 7.0.0.19 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 438536
+  Tx Packets: 1000
+  Rx Packets: 287
+  Time LastRxPacket: 1.531s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.713
+  Throughput: 2.2915e+06bps
+  Mean{Delay}: 0.0343728
+  Mean{Jitter}: 0.000853659
+UDP
+FlowID: 19 (UDP 1.0.0.2 / 49171 --> 7.0.0.20 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 421728
+  Tx Packets: 1000
+  Rx Packets: 276
+  Time LastRxPacket: 1.532s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.724
+  Throughput: 2.20223e+06bps
+  Mean{Delay}: 0.0343442
+  Mean{Jitter}: 0.000945652
+UDP
+FlowID: 20 (UDP 1.0.0.2 / 49172 --> 7.0.0.21 / 1100)
+  Tx Bytes: 1528000
+  Rx Bytes: 440064
+  Tx Packets: 1000
+  Rx Packets: 288
+  Time LastRxPacket: 1.531s
+  Lost Packets: 0
+  Pkt Lost Ratio: 0.712
+  Throughput: 2.29949e+06bps
+  Mean{Delay}: 0.0343819
+  Mean{Jitter}: 0.000822917
+5	0.001	ns3::FdBetFfMacScheduler	
+Average throughput= 2.27655e+06 bps
